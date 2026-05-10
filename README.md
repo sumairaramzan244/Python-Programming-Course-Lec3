@@ -1,6 +1,6 @@
 # Python-Programming-Course-Lec3
 
-# Python Basics — Punjab Hunarmand Batch 3
+# Python Variables  — Punjab Hunarmand Batch 3
 
 This repository contains my Python code from Lecture 3
 at Punjab Hunarmand Program, Batch 3.
