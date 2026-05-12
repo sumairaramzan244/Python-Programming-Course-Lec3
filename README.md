@@ -3,7 +3,7 @@
 # Python Variables  — Punjab Hunarmand Batch 3
 
 This repository contains my Python code from Lecture 3
-at Punjab Hunarmand Program, Batch 3.
+at Punjab Hunarmand Program, Batch_3.
 
 ---
 
